@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - I'm a 1st-year B. Tech. (IT) student at University Institute of Technology RGPV, Bhopal.
-- Passionate about Android Development & Web Development.
+- Passionate about Android Development.
 - Looking to collaborate with other developers. 
 - Learning tools and technologies which are mentioned below to build projects.
 

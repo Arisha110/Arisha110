@@ -3,8 +3,8 @@
 ---
 
 ### 🚀 About Me
-- I'm a 1st-year B. Tech. (IT) student at University Institute of Technology RGPV, Bhopal.
-- Passionate about Android Development.
+- I'm a 2nd-year B. Tech. (IT) student at University Institute of Technology RGPV, Bhopal.
+- Passionate about Flutter Development.
 - Looking to collaborate with other developers. 
 - Learning tools and technologies which are mentioned below to build projects.
 

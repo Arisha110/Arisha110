@@ -11,10 +11,8 @@
 ---
 
 ### 🧰 Toolbox
-![](https://img.shields.io/badge/Java-4BC0F4?style=for-the-badge&logo=java&logoColor=black)
-![](https://img.shields.io/badge/Kotlin-A4C639?style=for-the-badge&logo=kotlin&logoColor=black)
 ![](https://img.shields.io/badge/CPP-7AB5CF?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+
 ![](https://img.shields.io/badge/Git-3E2C00?style=for-the-badge&logo=git&logoColor=F1502F)
 ![](https://img.shields.io/badge/GitHub-fafafa?style=for-the-badge&logo=github&logoColor=4078c0)
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
